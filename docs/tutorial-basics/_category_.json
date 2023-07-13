@@ -1,0 +1,8 @@
+{
+  "label": "Tutorial - Basics",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Se explicara detalladamente el codigo de convertir un HTML de texto plano o un archivo WORD a PDF en base 64"
+  }
+}

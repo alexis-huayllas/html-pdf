@@ -1,0 +1,9 @@
+version: "3.5"
+services:
+  nestjs:
+    build: .
+    ports:
+      - 3002:3002
+    volumes: 
+      - .:/app
+      - /app/node_modules
